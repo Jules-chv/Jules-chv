@@ -1,0 +1,4 @@
+- 👋 Salurt, je suis @Jules-chv
+- 👀 Je suis actuellement en apprentissage dans la programmation
+- 🌱 Je suis actuellement en apprentissage des différents languages de programmations tels que : Javascript, HTML, CSS, Python...
+- 😄 Pronoms: Il/He
